@@ -77,10 +77,6 @@ namespace net_core_webapi_angular7
                     ClockSkew = TimeSpan.Zero // No time difference between client side and server side
                 };
             });
-
-
-
-
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -103,7 +99,8 @@ namespace net_core_webapi_angular7
             app.UseCors(builder =>
             builder.WithOrigins(Configuration["ApplicationSettings:Client_URL"].ToString())
             .AllowAnyHeader()
-            .AllowAnyMethod());
+            .AllowAnyMethod()
+            );
             app.UseAuthentication();
             app.UseMvc();
         }

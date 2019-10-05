@@ -19,13 +19,13 @@ namespace net_core_webapi_angular7.Controllers
     public class ApplicationUserController : ControllerBase
     {
         private UserManager<ApplicationUser> _userManager;
-        private SignInManager<ApplicationUser> _signiNManager;
+        private SignInManager<ApplicationUser> _signInManager;
         private readonly ApplicationSettings _appSettings;
 
-        public ApplicationUserController(UserManager<ApplicationUser> userManager, SignInManager<ApplicationUser> signiNManager, IOptions<ApplicationSettings> appSettings)
+        public ApplicationUserController(UserManager<ApplicationUser> userManager, SignInManager<ApplicationUser> signInManager, IOptions<ApplicationSettings> appSettings)
         {
             _userManager = userManager;
-            _signiNManager = signiNManager;
+            _signInManager = signInManager;
             _appSettings = appSettings.Value;
         }
 
@@ -72,10 +72,10 @@ namespace net_core_webapi_angular7.Controllers
                 var tokenHandler = new JwtSecurityTokenHandler();
                 var securityToken = tokenHandler.CreateToken(tokenDescriptor);
                 var token = tokenHandler.WriteToken(securityToken);
-                return Ok(new {token });
+                return Ok(new { token });
             }else
             {
-                return BadRequest(new { message = "Username or passwordd is incorrect" });
+                return BadRequest(new { message = "Username or passwordd is incorrect." });
             }
         }
 

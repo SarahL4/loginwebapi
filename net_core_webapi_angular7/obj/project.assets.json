@@ -13000,11 +13000,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\micke\\Desktop\\EGET CSHARP\\MVC\\webAPI\\net_core_webapi_angular7\\net_core_webapi_angular7\\net_core_webapi_angular7.csproj",
+      "projectUniqueName": "C:\\Users\\micke\\Desktop\\EGET CSHARP\\MVC\\webAPI\\net_core_webapi_angular7 - git1\\net_core_webapi_angular7\\net_core_webapi_angular7.csproj",
       "projectName": "net_core_webapi_angular7",
-      "projectPath": "C:\\Users\\micke\\Desktop\\EGET CSHARP\\MVC\\webAPI\\net_core_webapi_angular7\\net_core_webapi_angular7\\net_core_webapi_angular7.csproj",
+      "projectPath": "C:\\Users\\micke\\Desktop\\EGET CSHARP\\MVC\\webAPI\\net_core_webapi_angular7 - git1\\net_core_webapi_angular7\\net_core_webapi_angular7.csproj",
       "packagesPath": "C:\\Users\\micke\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\micke\\Desktop\\EGET CSHARP\\MVC\\webAPI\\net_core_webapi_angular7\\net_core_webapi_angular7\\obj\\",
+      "outputPath": "C:\\Users\\micke\\Desktop\\EGET CSHARP\\MVC\\webAPI\\net_core_webapi_angular7 - git1\\net_core_webapi_angular7\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

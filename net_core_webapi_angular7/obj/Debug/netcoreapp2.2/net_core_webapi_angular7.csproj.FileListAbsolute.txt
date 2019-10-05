@@ -26,3 +26,17 @@ C:\Users\micke\Desktop\EGET CSHARP\MVC\webAPI\net_core_webapi_angular7\net_core_
 C:\Users\micke\Desktop\EGET CSHARP\MVC\webAPI\net_core_webapi_angular7\net_core_webapi_angular7\obj\Debug\netcoreapp2.2\net_core_webapi_angular7.RazorTargetAssemblyInfo.cache
 C:\Users\micke\Desktop\EGET CSHARP\MVC\webAPI\net_core_webapi_angular7\net_core_webapi_angular7\obj\Debug\netcoreapp2.2\net_core_webapi_angular7.dll
 C:\Users\micke\Desktop\EGET CSHARP\MVC\webAPI\net_core_webapi_angular7\net_core_webapi_angular7\obj\Debug\netcoreapp2.2\net_core_webapi_angular7.pdb
+C:\Users\micke\Desktop\EGET CSHARP\MVC\webAPI\net_core_webapi_angular7 - git1\net_core_webapi_angular7\obj\Debug\netcoreapp2.2\net_core_webapi_angular7.csprojAssemblyReference.cache
+C:\Users\micke\Desktop\EGET CSHARP\MVC\webAPI\net_core_webapi_angular7 - git1\net_core_webapi_angular7\obj\Debug\netcoreapp2.2\net_core_webapi_angular7.csproj.CoreCompileInputs.cache
+C:\Users\micke\Desktop\EGET CSHARP\MVC\webAPI\net_core_webapi_angular7 - git1\net_core_webapi_angular7\obj\Debug\netcoreapp2.2\net_core_webapi_angular7.RazorAssemblyInfo.cache
+C:\Users\micke\Desktop\EGET CSHARP\MVC\webAPI\net_core_webapi_angular7 - git1\net_core_webapi_angular7\obj\Debug\netcoreapp2.2\net_core_webapi_angular7.RazorAssemblyInfo.cs
+C:\Users\micke\Desktop\EGET CSHARP\MVC\webAPI\net_core_webapi_angular7 - git1\net_core_webapi_angular7\obj\Debug\netcoreapp2.2\net_core_webapi_angular7.AssemblyInfoInputs.cache
+C:\Users\micke\Desktop\EGET CSHARP\MVC\webAPI\net_core_webapi_angular7 - git1\net_core_webapi_angular7\obj\Debug\netcoreapp2.2\net_core_webapi_angular7.AssemblyInfo.cs
+C:\Users\micke\Desktop\EGET CSHARP\MVC\webAPI\net_core_webapi_angular7 - git1\net_core_webapi_angular7\obj\Debug\netcoreapp2.2\net_core_webapi_angular7.dll
+C:\Users\micke\Desktop\EGET CSHARP\MVC\webAPI\net_core_webapi_angular7 - git1\net_core_webapi_angular7\obj\Debug\netcoreapp2.2\net_core_webapi_angular7.pdb
+C:\Users\micke\Desktop\EGET CSHARP\MVC\webAPI\net_core_webapi_angular7 - git1\net_core_webapi_angular7\bin\Debug\netcoreapp2.2\net_core_webapi_angular7.deps.json
+C:\Users\micke\Desktop\EGET CSHARP\MVC\webAPI\net_core_webapi_angular7 - git1\net_core_webapi_angular7\bin\Debug\netcoreapp2.2\net_core_webapi_angular7.runtimeconfig.json
+C:\Users\micke\Desktop\EGET CSHARP\MVC\webAPI\net_core_webapi_angular7 - git1\net_core_webapi_angular7\bin\Debug\netcoreapp2.2\net_core_webapi_angular7.runtimeconfig.dev.json
+C:\Users\micke\Desktop\EGET CSHARP\MVC\webAPI\net_core_webapi_angular7 - git1\net_core_webapi_angular7\bin\Debug\netcoreapp2.2\net_core_webapi_angular7.dll
+C:\Users\micke\Desktop\EGET CSHARP\MVC\webAPI\net_core_webapi_angular7 - git1\net_core_webapi_angular7\bin\Debug\netcoreapp2.2\net_core_webapi_angular7.pdb
+C:\Users\micke\Desktop\EGET CSHARP\MVC\webAPI\net_core_webapi_angular7 - git1\net_core_webapi_angular7\obj\Debug\netcoreapp2.2\net_core_webapi_angular7.RazorTargetAssemblyInfo.cache
